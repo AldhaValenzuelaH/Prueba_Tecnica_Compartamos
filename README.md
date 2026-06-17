@@ -83,6 +83,10 @@ chmod +x run.sh
 - **Integridad referencial**: los pedidos cuyo `customer_id` o `product_id` 
   no existen en las tablas limpias de clientes/productos fueron excluidos.
 
+![Grafico1](images/Grafico1.png)
+![Grafico2](images/Grafico2.png)
+![Grafico3](images/Grafico3.png)
+
 ## Esquema de la capa ANALYTICS
 
 ### DIM_CLIENTE
